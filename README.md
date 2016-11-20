@@ -1,7 +1,7 @@
 # Planejamento 2017
 Ações do capítulo para 2017
 
-* [eventos.md](Calendário de Eventos)
-* [locais.md](Locais Parceiros)
-* [atividades.md](Atividades e Formatos de Eventos)
-* [comunidades.md](Comunidades Parceiras)
+* [Calendário de Eventos](eventos.md)
+* [Locais Parceiros](locais.md)
+* [Atividades e Formatos de Eventos](atividades.md)
+* [Comunidades Parceiras](comunidades.md)
