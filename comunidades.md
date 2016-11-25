@@ -7,7 +7,7 @@ O GDG São Luis está sempre buscando integração com outras comunidades locais
 | Comunidade       	| Representante    	|
 |------------------	|------------------	|
 | Startup Maranhão 	| Rômulo Martins   	|
-| PyLadies         	| ?                	|
+| PyLadies São Luís	| Salete Farias    	|
 | Science Pub      	| ?                	|
 | Agile Maranhão   	| Evaldo Barbosa   	|
 | AMA Games        	| ?                	|
