@@ -17,3 +17,5 @@ Calendário de Eventos
 | qua, 11/10    | A definir     | A definir      | Ver Programação      | Conf + WTM (Outubro Rosa)             |
 | qui, 16/11    | CEST          | A definir      | A definir            | Meetup                                |
 | qui, 14/12    | A definir     | A definir      | A definir            | Meetup                                |
+
+Todos os eventos do GDG São Luis adotam o seguinte [código de conduta](codigo-conduta.md)

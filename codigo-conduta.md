@@ -9,15 +9,13 @@ A prática de assédio inclui comentários ofensivos - relacionados com gênero,
 
 Participantes cujo comportamento infrinja estas regras de conduta serão advertidos e devem imediatamente cessar os comportamentos ofensivos, sob o risco de serem convidados(as) a se retirar do evento sem direito a reembolso de valores eventualmente pagos na forma de inscrição, patrocínio ou contribuição, bem como quaisquer possibilidades de retorno. O GDG São Luis tomará as medidas necessárias para impedir que práticas de assédio aconteçam e/ou sejam repetidas nas atividades dos seus eventos.
 
-Se você se sentiu ameaçado(a) ou desrespeitado(a), entre em contato com a organização e exponha as suas preocupações e o ocorrido. Membros da organização podem ser identificados através de camisetas, **buttons** ou coletes, ou na área de credenciamento do evento. 
+Se você se sentiu ameaçado(a) ou desrespeitado(a), entre em contato com a organização e exponha as suas preocupações e o ocorrido. Membros da organização podem ser identificados através de camisetas, *buttons* ou coletes, ou na área de credenciamento do evento. 
 
 A organização tomará as medidas necessárias para impedir que as práticas de assédio se repitam. Nós integramos e valorizamos muito a comunidade e desejamos a todos um excelente evento, independentemente das diferenças que todos possuímos mas que não devem, de forma alguma, nos dividir.
 
 Contato: ram.coelho@gmail.com
  
 Nós esperamos que todos(as) participantes sigam as orientações gerais deste documento e não permitam que práticas ofensivas e discriminatórias venham a acontecer nas dependências dos eventos.
-
----
 
 Licença e Atribuição
 --------------------
