@@ -5,7 +5,7 @@ Calendário de Eventos
 | Data          | Local         | Palestrante    | Tema                 | Formato                               |
 |------------   |-----------    |--------------  |--------------------  |-----------------------------------    |
 | qui, 19/01    | A definir     | Ricardo Coelho | Docker para Devs     | Meetup                                |
-| sex, 17/02    | CEST          | A definir      | Ver Programação      | Conf + WTM (Ada's)                    |
+| sex, 16/02    | CEST          | A definir      | Ver Programação      | Conf + WTM (Ada's)                    |
 | qua, 08/03    | A definir     | A definir      | A definir            | Cloud Next Extended + WTM Women's Day |
 | qui, 13/04    | A definir     | A definir      | A definir            | Meetup                                |
 | definir/05    | A definir     | A definir      | A definir            | I/O Extended                          |
